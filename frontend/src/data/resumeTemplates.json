@@ -1,0 +1,26 @@
+[
+  {
+    "id": "simple-1",
+    "category": "Simple",
+    "name": "Simple Resume – Template 1",
+    "thumbnail": "/templates/simple1.png"
+  },
+  {
+    "id": "simple-2",
+    "category": "Simple",
+    "name": "Simple Resume – Template 2",
+    "thumbnail": "/templates/simple2.png"
+  },
+  {
+    "id": "professional-1",
+    "category": "Professional",
+    "name": "Professional Resume – Template 1",
+    "thumbnail": "/templates/prof1.png"
+  },
+  {
+    "id": "creative-1",
+    "category": "Professional",
+    "name": "Professional Resume – Template 2",
+    "thumbnail": "/templates/prof2.png"
+  }
+]

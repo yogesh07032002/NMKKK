@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "centerName": "NMK Career Center Pune",
+    "city": "Pune",
+    "address": "Shivajinagar, Pune",
+    "contact": "9876543210"
+  },
+  {
+    "id": 2,
+    "centerName": "NMK Career Center Mumbai",
+    "city": "Mumbai",
+    "address": "Dadar West, Mumbai",
+    "contact": "9988776655"
+  },
+  {
+    "id": 3,
+    "centerName": "NMK Career Center Nashik",
+    "city": "Nashik",
+    "address": "College Road, Nashik",
+    "contact": "9090909090"
+  },
+  {
+    "id": 4,
+    "centerName": "NMK Career Center Nagpur",
+    "city": "Nagpur",
+    "address": "Sitabuldi, Nagpur",
+    "contact": "9123456789"
+  },
+  {
+    "id": 5,
+    "centerName": "NMK Career Center Kolhapur",
+    "city": "Kolhapur",
+    "address": "Rajaram Road, Kolhapur",
+    "contact": "9871234560"
+  },
+  {
+    "id": 6,
+    "centerName": "NMK Career Center Aurangabad",
+    "city": "Aurangabad",
+    "address": "CIDCO, Aurangabad",
+    "contact": "9876543000"
+  },
+  {
+    "id": 7,
+    "centerName": "NMK Career Center Solapur",
+    "city": "Solapur",
+    "address": "Sidheshwar Temple Road, Solapur",
+    "contact": "9099988776"
+  },
+  {
+    "id": 8,
+    "centerName": "NMK Career Center Thane",
+    "city": "Thane",
+    "address": "Ghodbunder Road, Thane",
+    "contact": "9012345678"
+  },
+  {
+    "id": 9,
+    "centerName": "NMK Career Center Satara",
+    "city": "Satara",
+    "address": "Powai Naka, Satara",
+    "contact": "9876501234"
+  },
+  {
+    "id": 10,
+    "centerName": "NMK Career Center Jalgaon",
+    "city": "Jalgaon",
+    "address": "Ring Road, Jalgaon",
+    "contact": "9301234567"
+  }
+]
